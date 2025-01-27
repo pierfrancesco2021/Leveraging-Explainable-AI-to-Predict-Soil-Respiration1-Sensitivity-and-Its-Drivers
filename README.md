@@ -8,4 +8,4 @@ Leveraging Explainable AI to Predict Soil Respiration Sensitivity and Its Driver
 Pierfrancesco Novielli, Michele Magarelli, Donato Romano, Pierpaolo Di Bitonto, Anna Maria Stellacci, Alfonso Monaco, Nicola Amoroso, Roberto Bellotti, Sabina Tangaro
 
 # Graphical abstract:
-![Graphical abstract](soil 2.0.png)
+![Graphical abstract](graphical_abstract.png)
