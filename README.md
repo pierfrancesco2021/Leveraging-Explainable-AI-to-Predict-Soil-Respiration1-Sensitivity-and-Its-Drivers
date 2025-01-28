@@ -23,12 +23,10 @@ Python: 3.12.5
 # Version Numbers for Python Packages in the MacOS environment
 
 
-* numpy version: 1.24.3
-* pandas version: 1.5.3
-* matplotlib version: 3.7.2
-* shap version: 0.43.0
-* sklearn version: 1.2.2
-* xgboost version: xgboost 2.0.2
-* seaborn version: 0.12.2
-* scipy version: 1.10.1
-* statannotations version: 0.2.3
+* numpy version: 2.0.2
+* pandas version: 2.2.3
+* matplotlib version: 3.9.2
+* shap version: 0.46.0
+* sklearn version: 1.5.2
+* seaborn version: 0.13.2
+* scipy version: 1.14.1
